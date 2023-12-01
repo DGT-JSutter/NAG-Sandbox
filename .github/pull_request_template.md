@@ -10,9 +10,15 @@ Jira Ticket: [NAG-XXXX](https://dominoprintingsciences.atlassian.net/browse/NAG-
 - [ ] Contains a change in an AO <!-- Attach a screenshot! -->
 
 
-## How has it been tested
+## Review requests
+<!-- Explain what needs to be reviewed -->
+<!-- Mention if anything needs special attention -->
+<!-- If you assign multiple reviewers, inform them who you'd like to review what part of the pull request -->
 
+
+## How has it been tested
 <!-- Put an `x` in the boxes that apply -->
+
 - Unit tests 
   - [ ] Adapted / Added
   - [ ] All successful
@@ -31,13 +37,5 @@ Jira Ticket: [NAG-XXXX](https://dominoprintingsciences.atlassian.net/browse/NAG-
 <!-- Add additional details if needed -->
 
 
-## Review requests
-
-<!-- Explain what needs to be reviewed -->
-<!-- Mention if anything needs special attention -->
-<!-- If you assign multiple reviewers, inform them who needs to review what part of the pull request -->
-
-
 ## Additional information
-
 <!-- Add additional information helpful for the reviewer -->
