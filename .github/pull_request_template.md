@@ -1,17 +1,17 @@
-## <Title>
+### *Title*
 
-Jira Issue: [https://dominoprintingsciences.atlassian.net/browse/NAG-XXXX](NAG-XXXX)
+Jira Issue: [NAG-XXXX](https://dominoprintingsciences.atlassian.net/browse/NAG-XXXX)
 
-<Describe the changes here>
+*Describe the changes here*
 
 
-## Review Requests
+### Review Requests
 
-<What needs special attention>
+*What needs special attention*
 
-## Additional information
+### Additional information
 
-[] Contains contract change
-[] Contains UI changes (attach a screenshot)
-[] Contains a change in an AO (attach a screenshot)
+- [ ] Contains contract change
+- [ ] Contains UI changes (attach a screenshot)
+- [ ] Contains a change in an AO (attach a screenshot)
 
