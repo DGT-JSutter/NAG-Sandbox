@@ -4,15 +4,14 @@ Jira Ticket: [NAG-XXXX](https://dominoprintingsciences.atlassian.net/browse/NAG-
 
 ## Description
 <!--Describe your changes in detail-->
+<!-- If it contains a UI change attach a screenshot! -->
+<!-- If it contains an AO change, attach a screenshot! -->
 
 - [ ] Contains contract change
-- [ ] Contains UI changes <!-- Attach a screenshot! -->
-- [ ] Contains a change in an AO <!-- Attach a screenshot! -->
 
 
 ## Review requests
-<!-- Explain what needs to be reviewed -->
-<!-- Mention if anything needs special attention -->
+<!-- Explain what needs to be reviewed, mention if anything needs special attention -->
 <!-- If you assign multiple reviewers, inform them who you'd like to review what part of the pull request -->
 
 
@@ -25,7 +24,7 @@ Jira Ticket: [NAG-XXXX](https://dominoprintingsciences.atlassian.net/browse/NAG-
 - Automated topic tests 
   - [ ] Adapted / Added
   - [ ] All successful
-- Jenkis build
+- Jenkis builds
   - [ ] gt_main build successful
   <!--  Uncomment the line below if you have a contract change that affects the interface pc -->
   <!--  - [ ] BIL-interface_pc target branch build successful -->
@@ -33,9 +32,9 @@ Jira Ticket: [NAG-XXXX](https://dominoprintingsciences.atlassian.net/browse/NAG-
   - [ ] Tested locally on development environment
   - [ ] Tested on test stand
   - [ ] Tested on N730 / N711
-
+ 
 <!-- Add additional details if needed -->
 
 
 ## Additional information
-<!-- Add additional information helpful for the reviewer -->
+<!-- Add additional information helpful for the reviewer(s) -->
